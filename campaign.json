@@ -1,0 +1,64 @@
+"campaign": {
+  "name": "Curse of Strahd",
+  "description": "<p>Switching to Curse of Strahd, for that dark gothic horror story.</p>",
+  "link": "/campaigns/290299",
+  "publicNotes": "",
+  "dmUserId": 100975029,
+  "dmUsername": "perfectloser",
+  "characters": [
+    {
+      "userId": 101611119,
+      "username": "Dragonfool",
+      "characterId": 6900771,
+      "characterName": "Loki",
+      "characterUrl": "/profile/Dragonfool/characters/6900771",
+      "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/4903/460/150/200/636787322556804069.jpeg",
+      "privacyType": 3
+    },
+    {
+      "userId": 101613656,
+      "username": "DJDragon",
+      "characterId": 6917300,
+      "characterName": "Vance Dragonclaw",
+      "characterUrl": "/profile/DJDragon/characters/6917300",
+      "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/472/150/150/636377891803152540.jpeg",
+      "privacyType": 3
+    },
+    {
+      "userId": 101635203,
+      "username": "JenYatta",
+      "characterId": 7060035,
+      "characterName": "Skylan",
+      "characterUrl": "/profile/JenYatta/characters/7060035",
+      "avatarUrl": "",
+      "privacyType": 3
+    },
+    {
+      "userId": 101684357,
+      "username": "Robheart",
+      "characterId": 7062028,
+      "characterName": "Alexander Valentine",
+      "characterUrl": "/profile/Robheart/characters/7062028",
+      "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/177/150/150/636377835377765964.jpeg",
+      "privacyType": 3
+    },
+    {
+      "userId": 101641266,
+      "username": "Anastasia21",
+      "characterId": 7101111,
+      "characterName": "Lillith",
+      "characterUrl": "/profile/Anastasia21/characters/7101111",
+      "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/434/150/150/636377887423439666.jpeg",
+      "privacyType": 3
+    },
+    {
+      "userId": 100002043,
+      "username": "Streatmagic",
+      "characterId": 7405003,
+      "characterName": "Roland",
+      "characterUrl": "/profile/Streatmagic/characters/7405003",
+      "avatarUrl": "https://media-waterdeep.cursecdn.com/avatars/thumbnails/17/467/150/150/636377891399337253.jpeg",
+      "privacyType": 3
+    }
+  ]
+},
