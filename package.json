@@ -1,15 +1,17 @@
 {
   "name": "character-scraper",
   "version": "1.0.0",
-  "description": "",
+  "description": "An API for storing and retreiving data from Firebase and DndBeyond",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "ulid": "^2.3.0"
   }
 }
